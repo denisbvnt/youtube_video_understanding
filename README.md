@@ -1,6 +1,6 @@
-# 📺 YouTube Video Understanding
+# ▶️ YouTube Video Understanding
 
-**YouTube Video Understanding** is a Python-based application that enables users to interact with YouTube video content through a conversational interface. Utilizing **Streamlit** for the user interface and **Large Language Models (LLMs)** for natural language understanding, this tool allows for efficient querying and summarization of video content.
+**YouTube Video Understanding** is a Python-based application that enables users to interact with YouTube video transcript content through a conversational interface. Utilizing **Streamlit** for the user interface and **Large Language Models (LLMs)** for natural language understanding, this tool allows for efficient querying and summarization of video content.
 
 ## 📁 Project Structure
 
@@ -38,20 +38,23 @@
 - Interactive interface built with Streamlit.
 - Natural language processing powered by LLMs.
 - Dynamic prompt generation based on user input.
-- Execution of document-related tasks through conversational commands.
+- Execution of video-related tasks through conversational commands.
 
 ## 🛠️ Technologies Used
 
 - **Python** – Core programming language.
 - **Streamlit** – Framework for building the web interface.
 - **LangChain** – Framework for developing applications powered by LLMs.
-- **Hugging Face Transformers** – Access to pre-trained LLMs for text processing.
 - **LLMs** – Used for understanding and generating human-like text.
 - Additional libraries listed in `requirements.txt`.
 
 ## 📷 Screenshot
 
 ![image](https://github.com/user-attachments/assets/97930720-d01c-4ea0-8ea3-c90508b41852)
+
+![image](https://github.com/user-attachments/assets/bbd5d4f8-c14d-44bb-ba89-cd8cd788452b)
+
+![image](https://github.com/user-attachments/assets/d1dc36fd-f163-495c-b15d-2857b41ed859)
 
 
 ## 📄 License
